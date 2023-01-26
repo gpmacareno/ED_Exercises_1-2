@@ -1,5 +1,10 @@
 package es.studium.ejerciciospoo4;
-
+/**
+ * Aqui instancia los Centros de Trabajo, los departamentos y los alumnos para poder entregarles datos. Mostrara por pantalla diferentes aspectos.
+ * @author Studi
+ * @author Jaime 
+ *
+ */
 public class Principal
 {
 

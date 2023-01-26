@@ -1,5 +1,9 @@
 package es.studium.ejerciciospoo4;
-
+/**
+ * Ejemplo
+ * @author Studi
+ *
+ */
 public class Departamento
 {
 	private int idDepartamento;
